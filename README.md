@@ -665,3 +665,14 @@ fun ArtSpaceScreen() {
 ![圖片](https://github.com/user-attachments/assets/a772de4f-43a2-4299-8f46-bc3ac8ffb56f)
 更新到最新版 2.1.20 才會動，AI給的根本沒用
 
+## 7. 程式成功執行，但是捲到特定一張圖片就會當機
+![圖片](https://github.com/user-attachments/assets/7d10928c-d891-4629-aa2a-d00bf0743177)
+從 LogCat 查看後發現是圖片檔案太大
+於是我把圖片縮成原本的一半大小，就可以正常執行了
+![圖片](https://github.com/user-attachments/assets/ce3ae663-d65f-41a3-a104-bd733d93ca84)
+
+## 8. 人工細微調整
+原本圖片沒有置中，我稍微調整了參數就正常了，圖片正常填滿
+![圖片](https://github.com/user-attachments/assets/f0f79829-a3df-4a9a-962a-1d6da78429de)
+
+
