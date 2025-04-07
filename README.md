@@ -35,4 +35,10 @@
 ![圖片](https://github.com/user-attachments/assets/30628fab-7bca-4eff-8588-dee80e97a363)
 
 ## 3. 照著 AI 給的步驟開始實作
+a. 準備十張照片放進 /res/drawables
+![圖片](https://github.com/user-attachments/assets/378b8d0b-765e-41fe-b64c-0db86ea09809)
+b. 發現用 Windows 自動命名的圖片會有空格，Android 程式不能使用，只能手動重新命名
+![圖片](https://github.com/user-attachments/assets/637854fa-5294-4249-b1d7-04a0275e8aff)
+![圖片](https://github.com/user-attachments/assets/37e0af9c-3d23-40c0-a00b-02b531f2f307)
+
 
