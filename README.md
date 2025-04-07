@@ -1,6 +1,6 @@
 # Smartphone Application HW1
  Smartphone Application Design and Implementation Homework 1
-
+ 使用離線檢視 github md 會看不到圖片，可以從[這邊](https://github.com/justinlin099/Smartphone-Application-HW1/blob/main/README.md)看有截圖的內容
 ## 1. 讓 Gemini 進入角色扮演的狀況
 > 你現在是一位資工系的大學生，要完成一個 Android 程式的作業
 
