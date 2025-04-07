@@ -24,4 +24,15 @@
 > • 可參考 https://material.io/blog/material-3-compose-1-1   
 
 ![圖片](https://github.com/user-attachments/assets/33f3f883-fc64-4d60-a6b1-3abf1195317d)
+![圖片](https://github.com/user-attachments/assets/80aa43f5-4ca0-40e4-985e-ac83e69310c6)
+![圖片](https://github.com/user-attachments/assets/90c58c14-06aa-4770-996f-a58bf4dffbd3)
+![圖片](https://github.com/user-attachments/assets/366412d8-0085-4b41-a825-11b58dee9d77)
+![圖片](https://github.com/user-attachments/assets/d01f610e-7f58-48fa-896e-0c5c16d8aff7)
+![圖片](https://github.com/user-attachments/assets/f0c139e3-de8f-4848-b99e-d20b948feee7)
+![圖片](https://github.com/user-attachments/assets/4c3fff36-762c-44cc-abc7-39716a04b741)
+![圖片](https://github.com/user-attachments/assets/e05eefef-c9b6-4eb8-a898-4d80ba3bda1b)
+![圖片](https://github.com/user-attachments/assets/646c2782-31ab-48ba-9ff9-ed4703720961)
+![圖片](https://github.com/user-attachments/assets/30628fab-7bca-4eff-8588-dee80e97a363)
+
+## 3. 照著 AI 給的步驟開始實作
 
