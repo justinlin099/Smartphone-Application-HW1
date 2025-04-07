@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.justinlin099.artspace"
+    namespace = "com.justinlin099.myapplication"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.justinlin099.artspace"
+        applicationId = "com.justinlin099.myapplication"
         minSdk = 27
         targetSdk = 35
         versionCode = 1
@@ -56,5 +56,4 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-
 }
